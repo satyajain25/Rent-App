@@ -1,0 +1,154 @@
+{
+  "brands": [
+    {
+      "id": 1,
+      "name": "Tesla",
+      "icon": "⚡"
+    },
+    {
+      "id": 2,
+      "name": "Lamborghini",
+      "icon": "🛡️"
+    },
+    {
+      "id": 3,
+      "name": "BMW",
+      "icon": "🔷"
+    },
+    {
+      "id": 4,
+      "name": "Ferrari",
+      "icon": "🐎"
+    },
+    {
+      "id": 5,
+      "name": "Porsche",
+      "icon": "🏎️"
+    },
+    {
+      "id": 6,
+      "name": "Audi",
+      "icon": "🔶"
+    }
+  ],
+  "bestCars": [
+    {
+      "id": 1,
+      "name": "Ferrari FF",
+      "rating": 5.0,
+      "location": "Washington DC",
+      "seats": 4,
+      "price": 5200,
+      "image": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=400&h=300&fit=crop",
+      "priceType": "Day"
+    },
+    {
+      "id": 2,
+      "name": "Tesla Model S",
+      "rating": 5.0,
+      "location": "Chicago, USA",
+      "seats": 5,
+      "price": 5100,
+      "image": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=400&h=300&fit=crop",
+      "priceType": "Day"
+    },
+    {
+      "id": 3,
+      "name": "Lamborghini Huracan",
+      "rating": 4.9,
+      "location": "Miami, USA",
+      "seats": 2,
+      "price": 6800,
+      "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=400&h=300&fit=crop",
+      "priceType": "Day"
+    }
+  ],
+  "nearbyCars": [
+    {
+      "id": 1,
+      "name": "BMW M4",
+      "rating": 4.8,
+      "location": "New York, USA",
+      "seats": 2,
+      "price": 4500,
+      "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=400&h=300&fit=crop",
+      "priceType": "Day"
+    },
+    {
+      "id": 2,
+      "name": "Audi R8",
+      "rating": 4.7,
+      "location": "Los Angeles, USA",
+      "seats": 2,
+      "price": 5800,
+      "image": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=400&h=300&fit=crop",
+      "priceType": "Day"
+    },
+    {
+      "id": 3,
+      "name": "Porsche 911",
+      "rating": 4.9,
+      "location": "San Francisco, USA",
+      "seats": 2,
+      "price": 5500,
+      "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=400&h=300&fit=crop",
+      "priceType": "Day"
+    }
+  ],
+   "recommendedCars": [
+    {
+      "id": 1,
+      "name": "Tesla Model S",
+      "rating": 5.0,
+      "location": "Chicago, USA",
+      "price": 100,
+      "image": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=400&h=300&fit=crop",
+      "priceType": "Day"
+    },
+    {
+      "id": 2,
+      "name": "Ferrari LaFerrari",
+      "rating": 5.0,
+      "location": "Washington DC",
+      "price": 100,
+      "image": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=400&h=300&fit=crop",
+      "priceType": "Day"
+    },
+    {
+      "id": 3,
+      "name": "Lamborghini Aventador",
+      "rating": 4.9,
+      "location": "Washington DC",
+      "price": 100,
+      "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=400&h=300&fit=crop",
+      "priceType": "Day"
+    },
+    {
+      "id": 4,
+      "name": "BMW GTS3 M2",
+      "rating": 5.0,
+      "location": "New York, USA",
+      "price": 100,
+      "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=400&h=300&fit=crop",
+      "priceType": "Day"
+    }
+  ],
+  "popularCars": [
+    {
+      "id": 1,
+      "name": "Ferrari LaFerrari",
+      "rating": 5.0,
+      "price": 100,
+      "image": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=400&h=300&fit=crop",
+      "priceType": "Day"
+    },
+    {
+      "id": 2,
+      "name": "Tesla Model S",
+      "rating": 5.0,
+      "price": 100,
+      "image": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=400&h=300&fit=crop",
+      "priceType": "Day"
+    }
+  ]
+}
