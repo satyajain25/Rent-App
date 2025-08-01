@@ -1,0 +1,163 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Hela Quintin",
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b647?w=100&h=100&fit=crop&crop=face",
+      "lastMessage": "Your call is on the way! It will arrive....",
+      "time": "09:31 am",
+      "isOnline": true,
+      "unreadCount": 0
+    },
+    {
+      "id": 2,
+      "name": "Cameron",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face",
+      "lastMessage": "So thanks!",
+      "time": "09:24 am",
+      "isOnline": true,
+      "unreadCount": 0
+    },
+    {
+      "id": 3,
+      "name": "Mr. Davit",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop&crop=face",
+      "lastMessage": "Thank you for booking with us!",
+      "time": "08:30 am",
+      "isOnline": false,
+      "unreadCount": 0
+    },
+    {
+      "id": 4,
+      "name": "Richard",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
+      "lastMessage": "Good morning",
+      "time": "07:23 am",
+      "isOnline": false,
+      "unreadCount": 0
+    },
+    {
+      "id": 5,
+      "name": "Mashel",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face",
+      "lastMessage": "May I have an amazing and smooth",
+      "time": "Yesterday",
+      "isOnline": false,
+      "unreadCount": 0
+    },
+    {
+      "id": 6,
+      "name": "Anna",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&h=100&fit=crop&crop=face",
+      "lastMessage": "It's Ok, thanks you",
+      "time": "Yesterday",
+      "isOnline": false,
+      "unreadCount": 0
+    }
+  ],
+  "chatMessages": {
+    "1": [
+      {
+        "id": 1,
+        "senderId": 1,
+        "message": "Ready for your next adventure? Book a car today and get 20% off your first rental!",
+        "time": "09:29 am",
+        "isOwn": false,
+        "type": "text"
+      },
+      {
+        "id": 2,
+        "senderId": 1,
+        "message": "Don't miss out—limited time offer!",
+        "time": "09:29 am",
+        "isOwn": false,
+        "type": "text"
+      },
+      {
+        "id": 3,
+        "senderId": 1,
+        "message": "Book now for the best deals!",
+        "time": "09:29 am",
+        "isOwn": false,
+        "type": "text"
+      },
+      {
+        "id": 4,
+        "senderId": "user",
+        "message": "Hi I'm interested in getting your car. Is it available from Dhaka to Dubai?",
+        "time": "09:30 am",
+        "isOwn": true,
+        "type": "text"
+      },
+      {
+        "id": 5,
+        "senderId": 1,
+        "message": "Hello! Yes, we are available on those cities. Could you please confirm the pickup and drop-off locations?",
+        "time": "09:30 am",
+        "isOwn": false,
+        "type": "text"
+      },
+      {
+        "id": 6,
+        "senderId": "user",
+        "message": "Great! I'd like to pick it up from Dhaka downtown and return it to Dubai city center.",
+        "time": "09:31 am",
+        "isOwn": true,
+        "type": "text"
+      },
+      {
+        "id": 7,
+        "senderId": 1,
+        "message": "Hi can you problem",
+        "time": "09:31 am",
+        "isOwn": false,
+        "type": "text"
+      },
+      {
+        "id": 8,
+        "senderId": 1,
+        "message": "Typing...",
+        "time": "09:31 am",
+        "isOwn": false,
+        "type": "typing"
+      }
+    ]
+  },
+  "storyUsers": [
+    {
+      "id": 1,
+      "name": "My story",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=100&h=100&fit=crop&crop=face",
+      "hasStory": true,
+      "isOwn": true
+    },
+    {
+      "id": 2,
+      "name": "Christina",
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b647?w=100&h=100&fit=crop&crop=face",
+      "hasStory": true,
+      "isOwn": false
+    },
+    {
+      "id": 3,
+      "name": "Jasmion",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face",
+      "hasStory": true,
+      "isOwn": false
+    },
+    {
+      "id": 4,
+      "name": "Andrew",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop&crop=face",
+      "hasStory": true,
+      "isOwn": false
+    },
+    {
+      "id": 5,
+      "name": "Payer",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
+      "hasStory": true,
+      "isOwn": false
+    }
+  ]
+}
